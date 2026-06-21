@@ -108,7 +108,7 @@ These features would be coming to the website throughout its growth
 # Change Log
 Providing updates
 
-* **June 05, 2026** - Release
+* **June 05, 2026** - [Release (v.0.1)](https://github.com/WildmonkGitHub/MouseHeadzClub/releases/tag/v0.1)
 
 # Conclusion
 Despite having these upcoming features, we are not sure about the Submitting guidelines changes. For currently, users can submit projects and we check if the project contains MouseHeadz or it is a MouseHeadz project, and then it gets added here. Maybe if the account feature added to the website, we may not provide users to share projects directly and have to submit a request to add it.
