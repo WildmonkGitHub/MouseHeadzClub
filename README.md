@@ -146,6 +146,8 @@ Providing updates
 * **August 01, 2026** - [Alpha Social Medium Update (v.0.1.4)](https://github.com/WildmonkGitHub/MouseHeadzClub/releases/tag/v0.1.4)
 * **August 07, 2026** - [Alpha Social Medium Update (v.0.1.5)](https://github.com/WildmonkGitHub/MouseHeadzClub/releases/tag/v0.1.5)
 * **August 12, 2026** - [Alpha Social Medium Update (v.0.1.6)](https://github.com/WildmonkGitHub/MouseHeadzClub/releases/tag/v0.1.6)
+* **August 18, 2026** - [Alpha Social Medium Update (v.0.1.7)](https://github.com/WildmonkGitHub/MouseHeadzClub/releases/tag/v0.1.7)
+* **August 28, 2026** - [Alpha Social Medium Update (v.0.1.8)](https://github.com/WildmonkGitHub/MouseHeadzClub/releases/tag/v0.1.8)
 
 # Conclusion
 Despite having these upcoming features, we are not sure about the Submitting guidelines changes. For currently, users can submit projects and we check if the project contains MouseHeadz or it is a MouseHeadz project, and then it gets added here. Maybe if the account feature added to the website, we may not provide users to share projects directly and have to submit a request to add it.
